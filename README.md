@@ -11,7 +11,11 @@ easy - 10 movies | medium - 15 movies | hard - 20 movies
 
 ## Game
 
-<img src="https://user-images.githubusercontent.com/105456398/195872185-71472668-af3f-4299-8818-549625d3b43d.png" width="200" /> <img src="https://user-images.githubusercontent.com/105456398/195872341-ebf9a37e-2443-4b4b-afe2-c659627ef340.png" width="200" />
+Tap on movie row to make a guess
+<img src="https://user-images.githubusercontent.com/105456398/195872185-71472668-af3f-4299-8818-549625d3b43d.png" width="200" />
+
+While user is typing timer is stoped. Each emoji is replaced with the guessing one to prevent abusing stoped timer to guess more movies
+<img src="https://user-images.githubusercontent.com/105456398/195872341-ebf9a37e-2443-4b4b-afe2-c659627ef340.png" width="200" />
 
 
 ## Game results
