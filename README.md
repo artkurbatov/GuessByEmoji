@@ -11,9 +11,7 @@ easy - 10 movies | medium - 15 movies | hard - 20 movies
 
 ## Game
 
-<img src="https://user-images.githubusercontent.com/105456398/195872185-71472668-af3f-4299-8818-549625d3b43d.png" width="200" />
-
-<img src="https://user-images.githubusercontent.com/105456398/195872341-ebf9a37e-2443-4b4b-afe2-c659627ef340.png" width="200" />
+<img src="https://user-images.githubusercontent.com/105456398/195872185-71472668-af3f-4299-8818-549625d3b43d.png" width="200" /> <img src="https://user-images.githubusercontent.com/105456398/195872341-ebf9a37e-2443-4b4b-afe2-c659627ef340.png" width="200" />
 
 
 ## Game results
