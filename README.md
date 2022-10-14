@@ -1,6 +1,8 @@
 # GuessByEmoji
 Guess movies by emoji with 3 difficulty levels
 
+Tach stack: SwiftUI
+
 ## Select difficulty level
 
 At each level, user is given 60 seconds to guess
@@ -24,5 +26,7 @@ User can look at the correct answers for each of the presented movies or start a
 <img src="https://user-images.githubusercontent.com/105456398/195874842-8150f594-55df-4db2-897f-edf94e03c5e3.png" width="200" /> <img src="https://user-images.githubusercontent.com/105456398/195874870-abc7e852-4e92-4db5-b6c4-8f63c3fafcc9.png" width="200" />
 
 ## Results
+
+Here are all the results of the previous games. User can delete them.
 
 <img src="https://user-images.githubusercontent.com/105456398/195878744-0d606f8b-4ae2-4456-8025-2f9956ec1d14.png" width="200" />
